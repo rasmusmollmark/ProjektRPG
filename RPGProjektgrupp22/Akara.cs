@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace RPGProjektgrupp22
 {
     public class Akara : Vendor
-    {//Här är det fel
+    {
         private string name = "Akara";
         private List<string> Lore = new List<string>();
         private VendorInventory inventory;
